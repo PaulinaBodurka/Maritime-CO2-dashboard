@@ -1,6 +1,6 @@
 # Maritime-CO2-dashboard
 ESG dashboard for maritime CO₂ emissions analysis | DNV MRV data | Power BI
-I built an ESG dashboard for maritime CO₂ fleet emissions, based on DNV MRV data — from raw files all the way to an interactive four-page report.
+I built an ESG dashboard for maritime CO₂ fleet emissions, based on DNV MRV data - from raw files all the way to an interactive four-page report.
 <img width="1116" height="624" alt="3" src="https://github.com/user-attachments/assets/abba4ade-9ef0-45e8-b135-17861b5d6430" />
 <img width="1106" height="609" alt="2" src="https://github.com/user-attachments/assets/6f7c2078-214a-4304-95b1-d0411a23c669" />
 <img width="1111" height="619" alt="1" src="https://github.com/user-attachments/assets/277e83a5-77dd-4a67-9666-cbc564e5970f" />
