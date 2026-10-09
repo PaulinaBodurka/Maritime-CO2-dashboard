@@ -16,7 +16,7 @@ The report answers three business questions:
 
 ## 1. Overview
 
-![Overview](images/01_overview.png)
+![Overview](images/1.Cover.png)
 
 The landing page summarises the fleet in four headline KPIs:
 - Total CO₂ emissions (Mt)
@@ -32,7 +32,7 @@ The *Smart Data Architecture* panel explains the pipeline. Adding the next year'
 
 ## 2. Fleet Emissions Breakdown
 
-![Fleet Emissions Breakdown](images/02_fleet_emissions.png)
+![Fleet Emissions Breakdown](images/2.FleetEmissionBreakdown.png)
 
 **Question:** Which ship types dominate CO₂ emissions, and where are those ships registered?
 
@@ -54,7 +54,7 @@ The *Smart Data Architecture* panel explains the pipeline. Adding the next year'
 
 ## 3. Technical Efficiency & Verifier Analysis
 
-![Technical Efficiency & Verifier Analysis](images/03_technical_efficiency.png)
+![Technical Efficiency & Verifier Analysis](images/3.TechnicalEfficiency.png)
 
 **Question:** Which vessels are technically inefficient, where are they flagged, and who verifies the fleet?
 
@@ -76,7 +76,7 @@ The *Smart Data Architecture* panel explains the pipeline. Adding the next year'
 
 ## 4. Decarbonisation Trends
 
-![Decarbonisation Trends](images/04_decarbonisation_trends.png)
+![Decarbonisation Trends](images/4.Decarbonisation.Trends.png)
 
 **Question:** Is the fleet on track for its 2030 reduction target?
 
