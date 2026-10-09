@@ -12,16 +12,13 @@ The report answers three business questions:
 **Tools:** Power BI Desktop, Power Query, DAX
 **Data model:** star schema with an automated refresh pipeline
 
+## 1. Overview
 [![View Live Report](https://img.shields.io/badge/Power%20BI-View%20Live%20Report-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)](https://app.powerbi.com/view?r=eyJrIjoiNTA5NDIzMmUtMTZmMS00OTkwLTgwNGUtMTM5ZmVkYmM0NTgwIiwidCI6ImJhOWFiZWRlLTZmOWYtNDRlMC05OWU4LTMwYjNmOGI5YzQ2YyJ9)
 
 [![Report preview](1.Cover.png)](https://app.powerbi.com/view?r=eyJrIjoiNTA5NDIzMmUtMTZmMS00OTkwLTgwNGUtMTM5ZmVkYmM0NTgwIiwidCI6ImJhOWFiZWRlLTZmOWYtNDRlMC05OWU4LTMwYjNmOGI5YzQ2YyJ9)
 
 *Click the image or the badge to open the interactive report.*
 ---
-
-## 1. Overview
-
-![Overview](1.Cover.png)
 
 The landing page summarises the fleet in four headline KPIs:
 - Total CO₂ emissions (Mt)
