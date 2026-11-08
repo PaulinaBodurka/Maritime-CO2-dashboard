@@ -2,9 +2,9 @@
 
 Interactive Power BI report on CO₂ emissions, fuel consumption and technical efficiency of ships reporting under the EU MRV scheme, 2018-2024.
 
-[![View Live Report](https://app.powerbi.com/view?r=eyJrIjoiNTA5NDIzMmUtMTZmMS00OTkwLTgwNGUtMTM5ZmVkYmM0NTgwIiwidCI6ImJhOWFiZWRlLTZmOWYtNDRlMC05OWU4LTMwYjNmOGI5YzQ2YyJ9(POWER_BI_LINK)
+[![View Live Report](https://img.shields.io/badge/Power%20BI-View%20Live%20Report-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)](https://app.powerbi.com/view?r=eyJrIjoiNTA5NDIzMmUtMTZmMS00OTkwLTgwNGUtMTM5ZmVkYmM0NTgwIiwidCI6ImJhOWFiZWRlLTZmOWYtNDRlMC05OWU4LTMwYjNmOGI5YzQ2YyJ9)
 
-[![Report preview](1.Cover.png)](POWER_BI_LINK)
+[![Report preview](1.Cover.png)](https://app.powerbi.com/view?r=eyJrIjoiNTA5NDIzMmUtMTZmMS00OTkwLTgwNGUtMTM5ZmVkYmM0NTgwIiwidCI6ImJhOWFiZWRlLTZmOWYtNDRlMC05OWU4LTMwYjNmOGI5YzQ2YyJ9)
 
 *Click the badge or the image to open the interactive report.*
 
