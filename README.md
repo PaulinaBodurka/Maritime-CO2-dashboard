@@ -31,7 +31,7 @@ Interactive Power BI report on CO₂ emissions, fuel consumption and technical e
 
 ## 2. Technical Efficiency & Verifier Analysis
 
-![Technical Efficiency & Verifier Analysis](3.%20TechnicalEfficiency.png)
+![Technical Efficiency & Verifier Analysis](3.TechnicalEfficiency.png)
 
 **Visuals:** efficiency distribution by ship type and range, vessels above 100 g CO₂/t·nm, median efficiency trend by segment, verifier market share, KPI cards.
 
